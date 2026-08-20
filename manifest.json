@@ -1,0 +1,23 @@
+{
+  "name": "Santo Terço",
+  "short_name": "Santo Terço",
+  "description": "Reze o terço com calma, um mistério de cada vez.",
+  "lang": "pt-BR",
+  "start_url": "/santo-terco-app/",
+  "scope": "/santo-terco-app/",
+  "display": "standalone",
+  "theme_color": "#C95F4A",
+  "background_color": "#F6F0E7",
+  "icons": [
+    {
+      "src": "/santo-terco-app/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/santo-terco-app/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
